@@ -1,0 +1,7 @@
+c:\Projects\LazyLoader\LazyLoader\bin\Debug\LazyLoader.dll
+c:\Projects\LazyLoader\LazyLoader\bin\Debug\LazyLoader.pdb
+c:\Projects\LazyLoader\LazyLoader\bin\Debug\JetBrains.ReSharper.Intentions.CSharp.dll
+c:\Projects\LazyLoader\LazyLoader\bin\Debug\JetBrains.ReSharper.Intentions.CSharp.xml
+c:\Projects\LazyLoader\LazyLoader\obj\Debug\LazyLoader.dll
+c:\Projects\LazyLoader\LazyLoader\obj\Debug\LazyLoader.pdb
+c:\Projects\LazyLoader\LazyLoader\obj\Debug\LazyLoader.csprojResolveAssemblyReference.cache
